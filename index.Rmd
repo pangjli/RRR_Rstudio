@@ -1,0 +1,76 @@
+---
+title: "1,500 scientist lift the lid on reproducibility"
+date: 25 May 2016
+author: Monya Baker
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Introduction {#intro-link}
+
+## Survey sheds light on the ‘crisis’ rocking research.
+
+**More than 70% of researchers have tried and failed to reproduce another scientist's experiments**, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.
+
+The data reveal sometimes-contradictory attitudes towards reproducibility. Although 52% of those surveyed agree that there is a significant 'crisis' of reproducibility, less than 31% think that failure to reproduce published results means that the result is probably wrong, and most say that they still trust the published literature.
+
+
+### Formatting
+
+I am **Jiali Pang**
+
+I am from _Xian_
+
+## Superscript
+
+2^100^
+
+## Subscript
+
+beta~1~
+
+~~This is wrong~~
+
+I am from Sanger
+
+[Go to Intro](#intro-link)
+
+[Link to samger](https://www.sanger.ac.uk/)
+
+
+* Item 1
+* Item 2
+* Item 3
+    * Item 3a
+        *  Item 3ai
+        * Item 3aii
+    * Item 3b
+    * Item 3c
+* Item 4
+
+## Task List
+
+- [ ] Task 1
+- [x] Task 2
+- [x] Task 3
+- [x] Task 4
+
+
+## Inserting Images
+![Rlogo](download.png)
+
+
+### Table
+
+|Column 1 | Column 2 |
+|:-------:|:---------|
+|r1c1.    |r1c2.     |
+|r2 c1.   |r2 c2.    |
+
+
+#### Code not excutated
+```
+print("Hello World")
+```
